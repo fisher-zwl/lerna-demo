@@ -3,5 +3,27 @@
   "version": "0.0.1",
   "description": "天天学习",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "daybyday"
+  ],
+  "author": "郑文龙 <1426034446@qq.com>",
+  "homepage": "https://github.com/fisher-zwl/lerna-demo#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisher-zwl/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/fisher-zwl/lerna-demo/issues"
+  }
 }
